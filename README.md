@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Ismael</h1>
-<h3 align="center">Passionate and fast learning developer from Germany 🇩🇪 </h3>
+<h3 align="center">Passionate and fast learning developer from Germany 🇩🇪 based in 🇺🇸</h3>
 
 
 <h2> About Me</h2>
