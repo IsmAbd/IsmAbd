@@ -7,7 +7,6 @@
 
 - 🔨 I'm currently building <a href="https://cheerlance.com" target="_blank">Cheerlance</a>
 - 🌱 Currently learning **Go, Rust and NestJS**
-- 🤝 Open for new job opportunities in Bay Area or remote!
 
 <h2> Connect with Me</h2>
 
