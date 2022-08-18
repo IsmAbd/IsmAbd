@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Ismael</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 <h3 align="center">Passionate developer from 🇩🇪 based in 🇺🇸 <img src = "https://user-images.githubusercontent.com/35568983/159631357-5cd4de53-a41e-4910-9368-d10de22ad4a0.png" width=25px/>
 </h3>
 
