@@ -6,7 +6,6 @@
 <h2> About Me</h2>
 
 - 🔨 Sometimes building <a href="https://cheerlance.com" target="_blank">Cheerlance</a>
-- 🌱 Currently learning **Go**
 
 <h2> Connect with Me</h2>
 
